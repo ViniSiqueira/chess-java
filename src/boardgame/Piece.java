@@ -12,7 +12,7 @@ public class Piece {
 	}
 
 
-	protected Board getBoard() {   //protected porque ele é de uso interno e não pode ser acessado pelas camadas de cima. 
+	protected Board getBoard() {  
 		return board;
 	}
 }
